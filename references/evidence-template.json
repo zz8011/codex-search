@@ -1,0 +1,16 @@
+{
+"meta": {
+"topic": "<TOPIC>",
+"final_marker": "FINAL_REPORT_READY"
+},
+"claims": [
+{
+"id": "C1",
+"statement": "<CLAIM_TEXT>",
+"sources": [
+{"url": "<URL_1>", "title": "<TITLE_1>"},
+{"url": "<URL_2>", "title": "<TITLE_2>"}
+]
+}
+]
+}
